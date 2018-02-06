@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Tony",
+    "species" : "humna",
+    "foods": {
+      "likes": ["Burger", "Soshi"],
+      "dislikes": ["ham", "zucchini"]
+    }
+  },
+  {
+    "name": "Saifaldeen",
+    "species" : "Human",
+    "foods": {
+      "likes": ["Kabab", "Briany"],
+      "dislikes": ["tuna"]
+    }
+  },
+  {
+    "name": "Purrpaws",
+    "species" : "cat",
+    "foods": {
+      "likes": ["mice"],
+      "dislikes": ["cookies"]
+    }
+  }
+]
